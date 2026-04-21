@@ -1,0 +1,26 @@
+Proszę napisać program będący prostym kalkulatorem:
+
+Wymagania minimalne (na zaliczenie):
+
+     1. wejście jest podawane przez użytkownika w konsoli
+     2. dostępne są cztery podstawowe operacje arytmetyczne
+     3. po zakończeniu sesji, jej przebieg jest zapisywany do pliku o nazwie składającej się z:
+        - inicjałów autora
+        - daty i godziny rozpocząecia sesji
+     4. Program jest podzielony na moduły zawierajace:
+        - backend: funkcjonalnosci związane stricte z kalkulatorem
+        - frontend: funkcjonalności związane z wejściem/wyjściem
+        - moduł głowny -- driver
+
+
+Wymagania rozszerzone (do wyboru):
+
+     1. dodać inne operacje arytmetyczne/funkcje etc.
+     2. umożliwić pracę w trybie wsadowym, tzn. program odczytuje plik zawierajacy kolejne polecenia i je wykonuje
+
+
+Rozwiązanie proszę przesłać jako archiwum o nazwie   Imię_Nazwisko_sprawdzian_2.[zip|tar] . Ma ono zawierać:
+
+     1. Informacje o zrealizowanych wymaganiach
+     2. kod źródłowy
+     3. zapisy minimum trzech sesji z programem, które łącznie prezentują wszystkie zrealizowane wymagania
