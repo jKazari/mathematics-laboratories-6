@@ -9,3 +9,7 @@ Repository of solutions to my **Python** laboratories on the **6th semester** of
 5. Tuples, lists, sets, dicts
 6. Modules and packages
 7. Working with files
+8. Exam 2
+9. Classes
+10. Matplotlib
+11. wxWidgets
