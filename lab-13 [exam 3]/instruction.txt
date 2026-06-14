@@ -1,0 +1,18 @@
+Proszę napisać aplikację Kalkulator:
+
+Wymagania minimalne (na zaliczenie):
+     1. jest to aplikacja okienkowa, zawierajaca klawiaturę numeryczna, inne niezbędne przyciski oraz pole tekstowe wyświetlające wynik
+     2. dostępne są cztery podstawowe operacje arytmetyczne
+     3. Program jest podzielony na moduły zawierajace:
+        - backend: funkcjonalnosci związane stricte z kalkulatorem
+        - frontend: funkcjonalności związane z wejściem/wyjściem
+        - moduł głowny -- driver
+
+Wymagania rozszerzone (do wyboru):
+    1. Dostepne sa inne operacje (minimum 3)
+    2. Dostępne jest okienko z historią sesji
+    3. Przebieg sesji zapisywany jest do pliku 
+
+Rozwiązanie proszę przesłać jako archiwum o nazwie   Imię_Nazwisko_sprawdzian_3.[zip|tar] . Ma ono zawierać:
+    - kod źródłowy
+    - screenshoty prezentujące działanie programu

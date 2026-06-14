@@ -7,8 +7,7 @@ class MainFrame(wx.Frame):
     def __init__(self):
         super().__init__(parent=None, title='Numpad', pos=(500, 200))
 
-        self.display = wx.StaticText(self, size=(180, 30),
-                                     style=wx.ST_NO_AUTORESIZE | wx.ALIGN_RIGHT)
+        self.display = wx.StaticText(self, size=(180, 30), style=wx.ST_NO_AUTORESIZE | wx.ALIGN_RIGHT)
         self.display.SetLabel('')
         self.display.SetBackgroundColour((30, 30, 30))
         self.display.SetForegroundColour((0, 255, 0))
